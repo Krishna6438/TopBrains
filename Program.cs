@@ -1,1 +1,2 @@
-﻿Programming.Run();
+﻿// Programming.Run();
+MultiplicationTable.Run();
