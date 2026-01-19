@@ -4,6 +4,7 @@
     {
         // Programming.Run();
         // MultiplicationTable.Run();
-        Swapping.Run();
+        // Swapping.Run();
+        ArithmeticExpression.Run();
     }
 }
